@@ -1,0 +1,26 @@
+{
+  "app\\nutrition\\page.js -> ../../components/BarcodeScanner": {
+    "id": "app\\nutrition\\page.js -> ../../components/BarcodeScanner",
+    "files": [
+      "static/chunks/_app-pages-browser_components_BarcodeScanner_js.js"
+    ]
+  },
+  "app\\nutrition\\page.js -> ../../components/GeminiMealAnalyzer": {
+    "id": "app\\nutrition\\page.js -> ../../components/GeminiMealAnalyzer",
+    "files": [
+      "static/chunks/_app-pages-browser_components_GeminiMealAnalyzer_js.js"
+    ]
+  },
+  "app\\page.js -> ../components/Calendar": {
+    "id": "app\\page.js -> ../components/Calendar",
+    "files": [
+      "static/chunks/_app-pages-browser_components_Calendar_js.js"
+    ]
+  },
+  "app\\page.js -> ../components/WorkoutManager": {
+    "id": "app\\page.js -> ../components/WorkoutManager",
+    "files": [
+      "static/chunks/_app-pages-browser_components_WorkoutManager_js.js"
+    ]
+  }
+}
